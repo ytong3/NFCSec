@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCSec beta</string>
+    <string name="edit_message">Edit your message here</string>
+    <string name="edit_message_title">Step1: edit message</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">Encryption</string>
+    <string name="button_next">Next</string>
+    <string name="button_save">Save for later</string>
+    <string name="title_activity_adding_attributes">Step2: defining accessing policy</string>
+    <string name="edit_attr">Edit Attributes here</string>
+    <string name="button_OR">OR</string>
+    <string name="button_AND">AND</string>
+    <string name="button_enc">Encrypt</string>
+    <string name="button_load">Load</string>
+    <string name="title_activity_home">NFCSec</string>
+    <string name="send_data">I want to send data to another device</string>
+    <string name="receive_data">I want to receive data from another device</string>
+    <string name="title_activity_receive_and_dec">ReceiveAndDec</string>
+    <string name="rec_ini_status">Ready to receive…\nWaiting messages from NFC</string>
+    <string name="msg_display_hint">Encryted message will be displayed here.</string>
+    <string name="title_activity_ready_to_send">ReadyToSend</string>
+    <string name="ready_to_send">Encrypted Message Ready to Send.\nPlease touch the target phone you want to send the message to.</string>
+
+</resources>
